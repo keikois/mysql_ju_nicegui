@@ -1,0 +1,2 @@
+# mysql_ju_nicegui
+MySQLとjupyterlabとniceguiをセットにしたdocker-composeです
