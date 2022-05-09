@@ -9,7 +9,7 @@ localhost:80
 - main.pyにniceguiのコードを書いて保存すると、localhost:80がブラウザで自動更新されてアプリのGUIが見れます。
 アプリの作り方は、公式ページhttps://nicegui.io/をご参照ください。
 
-###　フォルダ構成
+## フォルダ構成
 ```
 mysql_ju_nicegui
 ├── db => (MySQLのデータ保存場所)
