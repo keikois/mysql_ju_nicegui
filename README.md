@@ -79,7 +79,7 @@ docker exec -it nicegui bash
 cd req_nicegui
 ```
 ```
-pip install --upgrade pip && pip install -r requirements.txt
+pip install --upgrade pip && pip3 install -r requirements.txt
 ```
 - コンテナを抜けます
 ```
